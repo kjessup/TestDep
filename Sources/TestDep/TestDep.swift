@@ -1,3 +1,3 @@
 
-public var depVersion = "1.0.0"
+public var depVersion = "1.0.1"
 
