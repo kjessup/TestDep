@@ -1,3 +1,3 @@
-struct TestDep {
-    var text = "Hello, World!"
-}
+
+public var depVersion = "1.0.0"
+
